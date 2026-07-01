@@ -23,7 +23,7 @@ A custom node for ComfyUI that implements the **official resolution-aware mu shi
 
 ## Usage
 
-   Add the node Ideogram4SchedulerFixed to your workflow.
+   Add the node `Ideogram 4 Scheduler (Fixed)` to your workflow.
 
 
 ## Technical Details
