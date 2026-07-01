@@ -9,8 +9,6 @@ A custom node for ComfyUI that implements the **official resolution-aware mu shi
 - **Resolution‑aware** – automatically adjusts `mu` according to image size:  
   `μ_eff = μ + 0.5 * ln( (width * height) / (512 * 512) )`
 - **Drop‑in replacement** – same interface as the standard `Ideogram4Scheduler` node (inputs: `steps`, `width`, `height`, `mu`, `std`; output: `SIGMAS`)
-- **Supports all presets** – Quality, Default, Turbo – just set `mu` and `std` accordingly
-- **Fully compatible** with ComfyUI’s custom sampling pipeline
 
 ## Installation
 
