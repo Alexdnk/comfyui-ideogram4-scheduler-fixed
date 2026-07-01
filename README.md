@@ -1,4 +1,4 @@
-# ComfyUI Ideogram4 Resolution Scheduler
+# ComfyUI Ideogram4 Resolution Scheduler (Fixed)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
